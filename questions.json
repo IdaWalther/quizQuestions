@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Who kills Sirius Black during the battle at the Ministry of Magic?",
+            "correctAnswer": "Bellatrix Lestrange",
+            "wrongAnswers": [
+                "Remus Lupin",
+                "Lord Voldemort",
+                "Fenrir Greyback"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Which Hogwarts student is harmed by a cursed necklace?",
+            "correctAnswer": "Katie Bell",
+            "wrongAnswers": [
+                "Lavender Brown",
+                "Draco Malfoy",
+                "Cedric Diggory"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "What spell does Hermione use to stop the rogue Bludged that targets Harry during a Quidditch match against Slytherin?",
+            "correctAnswer": "Finite Incantatem",
+            "wrongAnswers": [
+                "Badgering",
+                "Depulso",
+                "Bombarda"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "What present does Sirius leave Harry in his third year?",
+            "correctAnswer": "A firebolt broomstick",
+            "wrongAnswers": [
+                "A Nimbus 2000 broomstick",
+                "A Nimbus 2001 broomstick",
+                "A Comet 290 broomstick"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "What is the name of the landlord of the Leaky Cauldron?",
+            "correctAnswer": "Tom",
+            "wrongAnswers": [
+                "Henry",
+                "Hagrid",
+                "Rufus"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Who does Harry hear singing when he opens the golden egg under water?",
+            "correctAnswer": "Merpeople",
+            "wrongAnswers": [
+                "Veela",
+                "Phoenix",
+                "Goblins"
+            ]
+        }
+    ]
+}
