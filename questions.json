@@ -60,5 +60,1033 @@
                 "Goblins"
             ]
         }
+        ,
+        {
+            "id": 7,
+            "question": "What does Dumbledore conjure to protect himself and Harry from the Inferi in the cave?",
+            "correctAnswer": "Fire",
+            "wrongAnswers": [
+                "Water",
+                "Air",
+                "Earth"
+            ]
+        }
+        ,
+        {
+            "id": 8,
+            "question": "Which Triwizard Tournament cahmpion abandons the second task without completing it?",
+            "correctAnswer": "Fleur Delacour",
+            "wrongAnswers": [
+                "Harry Potter",
+                "Cedric Diggory",
+                "Viktor Krum"
+            ]
+        }
+        ,
+        {
+            "id": 9,
+            "question": "What are the effects of the spell Fera Verto as taught by Professor McGiagall to her students in their second year?",
+            "correctAnswer": "Turns animals into water goblets",
+            "wrongAnswers": [
+                "Makes things disappear",
+                "Turns matches into needles",
+                "Makes things appear from thin air"
+            ]
+        }
+        ,
+        {
+            "id": 10,
+            "question": "What phrase appears on the Golden Snitch after Harry presses it agaist his lips?",
+            "correctAnswer": "I open at the close",
+            "wrongAnswers": [
+                "I open when time is right",
+                "I open under water",
+                "I open when you need it the most"
+            ]
+        }
+        ,
+        {
+            "id": 11,
+            "question": "Who was Katie Bell convinced she had to deliver the cursed necklace to?",
+            "correctAnswer": "Professor Dumbledore",
+            "wrongAnswers": [
+                "Professor Snape",
+                "Professor McGonagall",
+                "Professor Sprout"
+            ]
+        }
+        ,
+        {
+            "id": 12,
+            "question": "What kind of creature attacks Hermione in the girl's toilets?",
+            "correctAnswer": "A troll",
+            "wrongAnswers": [
+                "A gigant",
+                "A vampire",
+                "A ghost"
+            ]
+        }
+        ,
+        {
+            "id": 13,
+            "question": "Who kills Bellatrix Lestrange after the battle of Hogwarts?",
+            "correctAnswer": "Molly Weasley",
+            "wrongAnswers": [
+                "Harry Potter",
+                "Neville Longbottom",
+                "Severus Snape"
+            ]
+        }
+        ,
+        {
+            "id": 14,
+            "question": "After Harry has taken Felix Felicis what does he catch Professor Slughorn doing?",
+            "correctAnswer": "Cutting Venomous Tentacula leaves",
+            "wrongAnswers": [
+                "Stealing potion ingredients from Professor Snapes secret stash",
+                "Taking venomous Acromantula poison from Aragog",
+                "Drinking whiskey at his office"
+            ]
+        },
+        {
+            "id": 15,
+            "question": "Who does Tonks marry?",
+            "correctAnswer": "Remus Lupin",
+            "wrongAnswers": [
+                "Bill Weasley",
+                "Charlie Weasley",
+                "Sirius Black"
+            ]
+        },
+        {
+            "id": 16,
+            "question": "What spell does Hermione use to freeze the Cornish pixies after they wreak havoc in Professor Lockhart's classroom?",
+            "correctAnswer": "Immobilus",
+            "wrongAnswers": [
+                "Petrificus Totalus",
+                "Expelliarmus",
+                "Rictusempra"
+            ]
+        },
+        {
+            "id": 17,
+            "question": "What do Harry and Hermione use to travel back in time?",
+            "correctAnswer": "A Time-Turner",
+            "wrongAnswers": [
+                "A Portkey",
+                "A Vanishing Cabinet",
+                "A magical mirror"
+            ]
+        },
+        {
+            "id": 18,
+            "question": "What position does Oliver Wood play for the Gryffindor Quidditch Team?",
+            "correctAnswer": "Keeper",
+            "wrongAnswers": [
+                "Seeker",
+                "Chaser",
+                "Beater"
+            ]
+        },
+        {
+            "id": 19,
+            "question": "What form does the Patronus take that leads Harry to the lake where he finds the sword of Gryffindor?",
+            "correctAnswer": "A doe",
+            "wrongAnswers": [
+                "A stag",
+                "A wolf",
+                "An otter"
+            ]
+        },
+        {
+            "id": 20,
+            "question": "Who signs a note left inside the fake locket Horcrux?",
+            "correctAnswer": "Regulus Arcturus Black",
+            "wrongAnswers": [
+                "Sirius Black",
+                "Albus Dumbledore",
+                "Severus Snape"
+            ]
+        },
+        {
+            "id": 21,
+            "question": "What does Madam Hooch teach at Hogwarts?",
+            "correctAnswer": "Flying lessons",
+            "wrongAnswers": [
+                "Herbology",
+                "Transfiguration",
+                "Potions"
+            ]
+        },
+        {
+            "id": 22,
+            "question": "Why does Hermione use the spell Protego Totalum around the trio's campsite after they escape the Ministry of Magic?",
+            "correctAnswer": "It's a protective enchantment",
+            "wrongAnswers": [
+                "To repel animals",
+                "To make them invisible",
+                "To silence their voices"
+            ]
+        },
+        {
+            "id": 23,
+            "question": "How many turns does Dumbledore suggest Hermione give the Time-Turner to go back and save Sirius?",
+            "correctAnswer": "Three",
+            "wrongAnswers": [
+                "Two",
+                "Five",
+                "Four"
+            ]
+        },
+        {
+            "id": 24,
+            "question": "According to Aunt Muriel, what serious crime did Professor Dumbledore's father commit?",
+            "correctAnswer": "He killed three Muggles",
+            "wrongAnswers": [
+                "He attacked a wizard",
+                "He robbed Gringotts",
+                "He cast an Unforgivable Curse"
+            ]
+        },
+        {
+            "id": 25,
+            "question": "What is the name of Hagrid's half-brother?",
+            "correctAnswer": "Grawp",
+            "wrongAnswers": [
+                "Fang",
+                "Aragog",
+                "Norbert"
+            ]
+        },
+        {
+            "id": 26,
+            "question": "What does Ron drink in Professor Slughorn's office that has been poisoned?",
+            "correctAnswer": "Mead",
+            "wrongAnswers": [
+                "Butterbeer",
+                "Pumpkin juice",
+                "Firewhisky"
+            ]
+        },
+        {
+            "id": 27,
+            "question": "Which ghost appears at the first start-of-term feast with a sword in his hand?",
+            "correctAnswer": "The Bloody Baron",
+            "wrongAnswers": [
+                "Nearly Headless Nick",
+                "The Grey Lady",
+                "Peeves"
+            ]
+        },
+        {
+            "id": 28,
+            "question": "What is the effect of the Incendio spell?",
+            "correctAnswer": "It creates fire",
+            "wrongAnswers": [
+                "It freezes objects",
+                "It creates a shield",
+                "It summons objects"
+            ]
+        },
+        {
+            "id": 29,
+            "question": "What does Professor Lupin give Harry to eat after the Dementors attack them?",
+            "correctAnswer": "Chocolate",
+            "wrongAnswers": [
+                "Butterbeer",
+                "Pumpkin Pasties",
+                "Treacle Tart"
+            ]
+        },
+        {
+            "id": 30,
+            "question": "Where are Dudley and Harry when the Dementors attack them?",
+            "correctAnswer": "In an underpass",
+            "wrongAnswers": [
+                "In a park",
+                "On Privet Drive",
+                "At a train station"
+            ]
+        },
+        {
+            "id": 31,
+            "question": "Who kills Professor Dumbledore?",
+            "correctAnswer": "Severus Snape",
+            "wrongAnswers": [
+                "Bellatrix Lestrange",
+                "Fenrir Greyback",
+                "Draco Malfoy"
+            ]
+        },
+        {
+            "id": 32,
+            "question": "What time does the Hogwarts Express leave King's Cross Station on the first day of term?",
+            "correctAnswer": "11:00 am",
+            "wrongAnswers": [
+                "10:30 am",
+                "12:00 pm",
+                "9:45 am"
+            ]
+        },
+        {
+            "id": 33,
+            "question": "Which spell produces light from the end of the wand?",
+            "correctAnswer": "Lumos",
+            "wrongAnswers": [
+                "Nox",
+                "Incendio",
+                "Alohomora"
+            ]
+        },
+        {
+            "id": 34,
+            "question": "What does Ron see when he looks into the Mirror of Erised?",
+            "correctAnswer": "He is Head Boy and is also holding the Quidditch Cup as Quidditch captain",
+            "wrongAnswers": [
+                "Himself with Hermione",
+                "Himself as Minister of Magic",
+                "Himself with the Elder Wand"
+            ]
+        },
+        {
+            "id": 35,
+            "question": "Who is the headmistress of Beauxbatons Academy of Magic?",
+            "correctAnswer": "Madame Maxime",
+            "wrongAnswers": [
+                "Professor Sprout",
+                "Madame Pomfrey",
+                "Madam Rosmerta"
+            ]
+        },
+        {
+            "id": 36,
+            "question": "What is the name of the Black family house-elf?",
+            "correctAnswer": "Kreacher",
+            "wrongAnswers": [
+                "Dobby",
+                "Winky",
+                "Hokey"
+            ]
+        },
+        {
+            "id": 37,
+            "question": "What does the Dark Mark look like?",
+            "correctAnswer": "A skull with a serpent coming out of its mouth",
+            "wrongAnswers": [
+                "A snake in a triangle",
+                "A lightning bolt",
+                "A dragon symbol"
+            ]
+        },
+        {
+            "id": 38,
+            "question": "What phrase is etched into Harry's hand during his detention with Professor Umbridge?",
+            "correctAnswer": "I must not tell lies",
+            "wrongAnswers": [
+                "I am a rule-breaker",
+                "I will respect authority",
+                "I will follow the rules"
+            ]
+        },
+        {
+            "id": 39,
+            "question": "What book does Hermione take from the library to make Polyjuice Potion?",
+            "correctAnswer": "Moste Potente Potions",
+            "wrongAnswers": [
+                "Advanced Potion-Making",
+                "Magical Drafts and Potions",
+                "Secrets of Dark Arts"
+            ]
+        },
+        {
+            "id": 40,
+            "question": "The core of Harry Potter's wand is made from what?",
+            "correctAnswer": "Tail feather of a phoenix",
+            "wrongAnswers": [
+                "Unicorn hair",
+                "Dragon heartstring",
+                "Acromantula hair"
+            ]
+        },
+        {
+            "id": 41,
+            "question": "When Professor Trelawney predicts 'servant and master shall be reunited once more,' she is referring to which servant?",
+            "correctAnswer": "Peter Pettigrew",
+            "wrongAnswers": [
+                "Bellatrix Lestrange",
+                "Barty Crouch Jr.",
+                "Lucius Malfoy"
+            ]
+        },
+        {
+            "id": 42,
+            "question": "What creature does Mad-Eye Moody use to teach the Unforgivable Curses?",
+            "correctAnswer": "A spider",
+            "wrongAnswers": [
+                "A snake",
+                "A frog",
+                "A rat"
+            ]
+        },
+        {
+            "id": 43,
+            "question": "Who does Voldemort order to kill Snape?",
+            "correctAnswer": "Nagini",
+            "wrongAnswers": [
+                "Bellatrix Lestrange",
+                "Fenrir Greyback",
+                "Lucius Malfoy"
+            ]
+        },
+        {
+            "id": 44,
+            "question": "Which teacher starts the Dueling Club at Hogwarts during Harry's second year?",
+            "correctAnswer": "Professor Lockhart",
+            "wrongAnswers": [
+                "Professor Snape",
+                "Professor Flitwick",
+                "Professor McGonagall"
+            ]
+        },
+        {
+            "id": 45,
+            "question": "According to Ron, what happens to a wizard or witch if they break an Unbreakable Vow?",
+            "correctAnswer": "They die",
+            "wrongAnswers": [
+                "They lose their magic",
+                "They become a Squib",
+                "They are exiled"
+            ]
+        },
+        {
+            "id": 46,
+            "question": "What object does Hagrid conceal the broken part of his wand in?",
+            "correctAnswer": "Pink umbrella",
+            "wrongAnswers": [
+                "Walking stick",
+                "Large book",
+                "Boot"
+            ]
+        },
+        {
+            "id": 47,
+            "question": "Who is the author of The Life and Lies of Albus Dumbledore?",
+            "correctAnswer": "Rita Skeeter",
+            "wrongAnswers": [
+                "Bathilda Bagshot",
+                "Xenophilius Lovegood",
+                "Gilderoy Lockhart"
+            ]
+        },
+        {
+            "id": 48,
+            "question": "What is Sirius' nickname when disguised as a dog?",
+            "correctAnswer": "Padfoot",
+            "wrongAnswers": [
+                "Moony",
+                "Prongs",
+                "Snuffles"
+            ]
+        },
+        {
+            "id": 49,
+            "question": "Who cast the Dark Mark into the sky once Dumbledore has been killed?",
+            "correctAnswer": "Bellatrix Lestrange",
+            "wrongAnswers": [
+                "Severus Snape",
+                "Lucius Malfoy",
+                "Fenrir Greyback"
+            ]
+        },
+        {
+            "id": 50,
+            "question": "Which student is approached by the snake that Draco Malfoy conjures during the Dueling Club?",
+            "correctAnswer": "Justin Finch-Fletchley",
+            "wrongAnswers": [
+                "Seamus Finnigan",
+                "Dean Thomas",
+                "Colin Creevey"
+            ]
+        },
+        {
+            "id": 51,
+            "question": "What does the spell Morsmordre produce?",
+            "correctAnswer": "It fires the Dark Mark into the sky",
+            "wrongAnswers": [
+                "It summons Death Eaters",
+                "It creates a shield",
+                "It produces a black mist"
+            ]
+        },
+        {
+            "id": 52,
+            "question": "What means of transportation do Harry and Hagrid use during their escape from Privet Drive?",
+            "correctAnswer": "A flying motorbike",
+            "wrongAnswers": [
+                "A Thestral carriage",
+                "A broomstick",
+                "A portkey"
+            ]
+        },
+        {
+            "id": 53,
+            "question": "What is Mad-Eye Moody's first name?",
+            "correctAnswer": "Alastor",
+            "wrongAnswers": [
+                "Bartemius",
+                "Gideon",
+                "Mundungus"
+            ]
+        },
+        {
+            "id": 54,
+            "question": "According to Luna, what is a Wrackspurt?",
+            "correctAnswer": "An invisible creature that floats into your ears and makes your brain go fuzzy",
+            "wrongAnswers": [
+                "A creature that lives in shadows",
+                "A spirit that causes headaches",
+                "A charm that wards off Dementors"
+            ]
+        },
+        {
+            "id": 55,
+            "question": "What is the name of the orphanage where Professor Dumbledore finds Tom Riddle?",
+            "correctAnswer": "Wool's Orphanage",
+            "wrongAnswers": [
+                "Riddle House",
+                "Little Hangleton Home",
+                "Yorkshire Shelter"
+            ]
+        },
+        {
+            "id": 56,
+            "question": "What subject does Professor Sprout teach at Hogwarts?",
+            "correctAnswer": "Herbology",
+            "wrongAnswers": [
+                "Potions",
+                "Transfiguration",
+                "Care of Magical Creatures"
+            ]
+        },
+        {
+            "id": 57,
+            "question": "Who uses the Petrificus Totalus spell on Neville to immobilize him and leave the Gryffindor Tower?",
+            "correctAnswer": "Hermione Granger",
+            "wrongAnswers": [
+                "Harry Potter",
+                "Ron Weasley",
+                "Draco Malfoy"
+            ]
+        },
+        {
+            "id": 58,
+            "question": "What are the initials on the note from the fake Horcrux?",
+            "correctAnswer": "R.A.B",
+            "wrongAnswers": [
+                "S.S.",
+                "L.M.",
+                "A.D."
+            ]
+        },
+        {
+            "id": 59,
+            "question": "Who has the first name Dolores?",
+            "correctAnswer": "Professor Umbridge",
+            "wrongAnswers": [
+                "Professor Trelawney",
+                "Bellatrix Lestrange",
+                "Aunt Petunia"
+            ]
+        },
+        {
+            "id": 60,
+            "question": "What musical instrument do Harry, Ron, and Hermione find playing near Fluffy?",
+            "correctAnswer": "A Harp",
+            "wrongAnswers": [
+                "A flute",
+                "A piano",
+                "A lyre"
+            ]
+        },
+        {
+            "id": 61,
+            "question": "Who destroys the final Horcrux?",
+            "correctAnswer": "Neville Longbottom",
+            "wrongAnswers": [
+                "Harry Potter",
+                "Ron Weasley",
+                "Hermione Granger"
+            ]
+        },
+        {
+            "id": 62,
+            "question": "What is the name of the group of students organized by Professor Umbridge to help her police Hogwarts?",
+            "correctAnswer": "The Inquisitorial Squad",
+            "wrongAnswers": [
+                "The Hogwarts Guard",
+                "The Prefects",
+                "The Defense Committee"
+            ]
+        },
+        {
+            "id": 63,
+            "question": "What potion does Harry take to help him extract the memory he needs from Slughorn?",
+            "correctAnswer": "Felix Felicis",
+            "wrongAnswers": [
+                "Polyjuice Potion",
+                "Veritaserum",
+                "Amortentia"
+            ]
+        },
+        {
+            "id": 64,
+            "question": "Who is the first champion to be chosen by the Goblet of Fire?",
+            "correctAnswer": "Viktor Krum",
+            "wrongAnswers": [
+                "Cedric Diggory",
+                "Fleur Delacour",
+                "Harry Potter"
+            ]
+        },
+        {
+            "id": 65,
+            "question": "Who is Remus Lupin's wife?",
+            "correctAnswer": "Nymphadora Tonks",
+            "wrongAnswers": [
+                "Lily Potter",
+                "Molly Weasley",
+                "Bellatrix Lestrange"
+            ]
+        },
+        {
+            "id": 66,
+            "question": "What is the name of Neville's toad?",
+            "correctAnswer": "Trevor",
+            "wrongAnswers": [
+                "Binky",
+                "Fang",
+                "Scabbers"
+            ]
+        },
+        {
+            "id": 67,
+            "question": "Which Death Eaters find Harry, Ron, and Hermione in the café in London after they escape from Bill and Fleur's wedding?",
+            "correctAnswer": "Rowle and Dolohov",
+            "wrongAnswers": [
+                "Crabbe and Goyle",
+                "Yaxley and Bellatrix",
+                "Avery and Mulciber"
+            ]
+        },
+        {
+            "id": 68,
+            "question": "In which school book does Hermione read that the ceiling of the Great Hall is bewitched to look like the night sky?",
+            "correctAnswer": "Hogwarts: A History",
+            "wrongAnswers": [
+                "The Standard Book of Spells",
+                "Magical Theory",
+                "Fantastic Beasts and Where to Find Them"
+            ]
+        },
+        {
+            "id": 69,
+            "question": "Which spell does Luna use to fix Harry's broken nose?",
+            "correctAnswer": "Episkey",
+            "wrongAnswers": [
+                "Reparo",
+                "Ferula",
+                "Orchideous"
+            ]
+        },
+        {
+            "id": 70,
+            "question": "Where is the Pensieve located?",
+            "correctAnswer": "Dumbledore's office",
+            "wrongAnswers": [
+                "The Room of Requirement",
+                "The Defense Against the Dark Arts classroom",
+                "The Astronomy Tower"
+            ]
+        },
+        {
+            "id": 71,
+            "question": "What are the names of Neville Longbottom's parents?",
+            "correctAnswer": "Frank and Alice",
+            "wrongAnswers": [
+                "James and Lily",
+                "Ted and Andromeda",
+                "Molly and Arthur"
+            ]
+        },
+        {
+            "id": 72,
+            "question": "Which creatures work in Gringotts bank?",
+            "correctAnswer": "Goblins",
+            "wrongAnswers": [
+                "House-elves",
+                "House-ghosts",
+                "Centaurs"
+            ]
+        },
+        {
+            "id": 73,
+            "question": "Who is the thief that Harry sees, through Voldemort's mind, jumping out of a window of Gregorovitch's wand shop?",
+            "correctAnswer": "Gellert Grindelwald",
+            "wrongAnswers": [
+                "Sirius Black",
+                "Fenrir Greyback",
+                "Peter Pettigrew"
+            ]
+        },
+        {
+            "id": 74,
+            "question": "How do first-year students travel from Hogsmeade station to Hogwarts castle?",
+            "correctAnswer": "By boat",
+            "wrongAnswers": [
+                "By Thestral carriage",
+                "By broomstick",
+                "By flying carpet"
+            ]
+        },
+        {
+            "id": 75,
+            "question": "Who helps Ron during his Quidditch tryout by discreetly casting a Confundus Charm on Cormac McLaggen?",
+            "correctAnswer": "Hermione Granger",
+            "wrongAnswers": [
+                "Ginny Weasley",
+                "Luna Lovegood",
+                "Neville Longbottom"
+            ]
+        },
+        {
+            "id": 76,
+            "question": "What is at the core of Lucius Malfoy's wand?",
+            "correctAnswer": "Dragon heartstring",
+            "wrongAnswers": [
+                "Unicorn hair",
+                "Phoenix feather",
+                "Veela hair"
+            ]
+        },
+        {
+            "id": 77,
+            "question": "What is Umbridge's position at the Ministry of Magic when Harry is tried for using underage magic?",
+            "correctAnswer": "Senior Undersecretary to the Minister",
+            "wrongAnswers": [
+                "Head of Magical Law Enforcement",
+                "Auror in Chief",
+                "Head of the Department of Mysteries"
+            ]
+        },
+        {
+            "id": 78,
+            "question": "Who, under the effects of the Imperius Curse, leads Harry, Ron, Hermione, and Griphook to Bellatrix Lestrange's vault?",
+            "correctAnswer": "Bogrod the goblin",
+            "wrongAnswers": [
+                "Griphook the goblin",
+                "Ragnok the goblin",
+                "Dobby the house-elf"
+            ]
+        },
+        {
+            "id": 79,
+            "question": "Before the battle of Hogwarts, whose voice is heard speaking to the students and teachers in the Great Hall?",
+            "correctAnswer": "Lord Voldemort",
+            "wrongAnswers": [
+                "Professor Snape",
+                "Bellatrix Lestrange",
+                "Lucius Malfoy"
+            ]
+        },
+        {
+            "id": 80,
+            "question": "The students from Beauxbatons Academy arrive at Hogwarts flying in a carriage pulled by what?",
+            "correctAnswer": "Flying horses",
+            "wrongAnswers": [
+                "Dragons",
+                "Thestrals",
+                "Griffins"
+            ]
+        },
+        {
+            "id": 81,
+            "question": "What does Hermione add to the Polyjuice Potion in order to transform into Bellatrix Lestrange?",
+            "correctAnswer": "A strand of Bellatrix's hair",
+            "wrongAnswers": [
+                "Bellatrix's wand",
+                "A drop of her blood",
+                "Her Dark Mark imprint"
+            ]
+        },
+        {
+            "id": 82,
+            "question": "Which story from The Tales of Beedle the Bard tells of the Deathly Hallows?",
+            "correctAnswer": "The Tale of the Three Brothers",
+            "wrongAnswers": [
+                "The Fountain of Fair Fortune",
+                "The Warlock's Hairy Heart",
+                "Babbitty Rabbitty and Her Cackling Stump"
+            ]
+        },
+        {
+            "id": 83,
+            "question": "What does Professor Slughorn call Ron in the Three Broomsticks after inviting Harry and Hermione to join him for his supper club?",
+            "correctAnswer": "Wallenby",
+            "wrongAnswers": [
+                "Weasley",
+                "Redman",
+                "Rudderman"
+            ]
+        },
+        {
+            "id": 84,
+            "question": "What is the name of the Gringotts goblin who takes Harry to his vault for the first time?",
+            "correctAnswer": "Griphook",
+            "wrongAnswers": [
+                "Bogrod",
+                "Ragnok",
+                "Kreacher"
+            ]
+        },
+        {
+            "id": 85,
+            "question": "Who is taken captive when Harry goes to face Voldemort in the Forbidden Forest after the battle of Hogwarts?",
+            "correctAnswer": "Hagrid",
+            "wrongAnswers": [
+                "Luna Lovegood",
+                "Professor McGonagall",
+                "Neville Longbottom"
+            ]
+        },
+        {
+            "id": 86,
+            "question": "Who does Harry invite to Slughorn's Christmas party?",
+            "correctAnswer": "Luna Lovegood",
+            "wrongAnswers": [
+                "Ginny Weasley",
+                "Hermione Granger",
+                "Cho Chang"
+            ]
+        },
+        {
+            "id": 87,
+            "question": "What type of memory is needed for a Patronus Charm to work?",
+            "correctAnswer": "A happy and powerful memory",
+            "wrongAnswers": [
+                "A fearful memory",
+                "An exciting memory",
+                "A neutral memory"
+            ]
+        },
+        {
+            "id": 88,
+            "question": "On their quest for the Philosopher's Stone, Harry, Ron, and Hermione need to catch what flying object?",
+            "correctAnswer": "A key",
+            "wrongAnswers": [
+                "A broomstick",
+                "A wand",
+                "A golden snitch"
+            ]
+        },
+        {
+            "id": 89,
+            "question": "Who is speculated to be the informant leaking Dumbledore's secrets in Rita Skeeter's book?",
+            "correctAnswer": "Bathilda Bagshot",
+            "wrongAnswers": [
+                "Elphias Doge",
+                "Aberforth Dumbledore",
+                "Gellert Grindelwald"
+            ]
+        },
+        {
+            "id": 90,
+            "question": "What does Fawkes do the first time Harry meets him in Dumbledore's office?",
+            "correctAnswer": "Bursts into flames",
+            "wrongAnswers": [
+                "Sings a magical song",
+                "Flies around the room",
+                "Sheds a feather"
+            ]
+        },
+        {
+            "id": 91,
+            "question": "How does Harry Potter destroy Tom Riddle's diary?",
+            "correctAnswer": "With a Basilisk fang",
+            "wrongAnswers": [
+                "With a spell",
+                "By burning it",
+                "With the sword of Gryffindor"
+            ]
+        },
+        {
+            "id": 92,
+            "question": "Which Ravenclaw schoolmate from Hogwarts do Harry and Ron find imprisoned in the dungeons of Malfoy Manor?",
+            "correctAnswer": "Luna Lovegood",
+            "wrongAnswers": [
+                "Cho Chang",
+                "Padma Patil",
+                "Michael Corner"
+            ]
+        },
+        {
+            "id": 93,
+            "question": "What is the name for the most powerful love potion in the world that Professor Slughorn introduces the class to in his first lesson?",
+            "correctAnswer": "Amortentia",
+            "wrongAnswers": [
+                "Felix Felicis",
+                "Veritaserum",
+                "Polyjuice Potion"
+            ]
+        },
+        {
+            "id": 94,
+            "question": "Who became the master of the Elder Wand after Gellert Grindelwald?",
+            "correctAnswer": "Albus Dumbledore",
+            "wrongAnswers": [
+                "Lord Voldemort",
+                "Severus Snape",
+                "Harry Potter"
+            ]
+        },
+        {
+            "id": 95,
+            "question": "How many times has Gilderoy Lockhart won Witch Weekly's Most-Charming-Smile Award?",
+            "correctAnswer": "Five times",
+            "wrongAnswers": [
+                "Three times",
+                "Seven times",
+                "Nine times"
+            ]
+        },
+        {
+            "id": 96,
+            "question": "What does Madame Maxime tell Hagrid that her horses drink?",
+            "correctAnswer": "Single-malt whiskey",
+            "wrongAnswers": [
+                "Pumpkin juice",
+                "Butterbeer",
+                "Dragon's milk"
+            ]
+        },
+        {
+            "id": 97,
+            "question": "Who is asked to identify Harry at Malfoy Manor when the Snatchers catch him?",
+            "correctAnswer": "Draco Malfoy",
+            "wrongAnswers": [
+                "Lucius Malfoy",
+                "Bellatrix Lestrange",
+                "Fenrir Greyback"
+            ]
+        },
+        {
+            "id": 98,
+            "question": "What subject does Professor Trelawney teach?",
+            "correctAnswer": "Divination",
+            "wrongAnswers": [
+                "Astronomy",
+                "Herbology",
+                "Charms"
+            ]
+        },
+        {
+            "id": 99,
+            "question": "Who casts Fiendfyre in the Room of Requirement?",
+            "correctAnswer": "Gregory Goyle",
+            "wrongAnswers": [
+                "Draco Malfoy",
+                "Vincent Crabbe",
+                "Blaise Zabini"
+            ]
+        },
+        {
+            "id": 100,
+            "question": "Whose wizard card does Harry find in his Chocolate Frog the first time he opens one?",
+            "correctAnswer": "Albus Dumbledore",
+            "wrongAnswers": [
+                "Godric Gryffindor",
+                "Salazar Slytherin",
+                "Merlin"
+            ]
+        },
+        {
+            "id": 101,
+            "question": "Who does Harry, as Albert Runcorn, and Hermione, as Mafalda Hopkirk, run into in an elevator at the Ministry of Magic?",
+            "correctAnswer": "Dolores Umbridge",
+            "wrongAnswers": [
+                "Arthur Weasley",
+                "Percy Weasley",
+                "Lucius Malfoy"
+            ]
+        },
+        {
+            "id": 102,
+            "question": "How does Harry kill the Basilisk in the Chamber of Secrets?",
+            "correctAnswer": "With the sword of Gryffindor",
+            "wrongAnswers": [
+                "With a spell",
+                "With a rock",
+                "With a potion"
+            ]
+        },
+        {
+            "id": 103,
+            "question": "How do you split your soul to create a Horcrux?",
+            "correctAnswer": "By killing someone",
+            "wrongAnswers": [
+                "By casting a spell",
+                "By drinking a potion",
+                "By making a sacrifice"
+            ]
+        },
+        {
+            "id": 104,
+            "question": "How do Harry and Ron finally get to Hogwarts for their second year?",
+            "correctAnswer": "By a flying car",
+            "wrongAnswers": [
+                "By broomstick",
+                "By Thestral",
+                "By the Hogwarts Express"
+            ]
+        },
+        {
+            "id": 105,
+            "question": "What color are the streams of light emitted from a wand when it performs the Killing Curse?",
+            "correctAnswer": "Green",
+            "wrongAnswers": [
+                "Red",
+                "Blue",
+                "Purple"
+            ]
+        },
+        {
+            "id": 106,
+            "question": "What does Harry discover about the locket that he and Professor Dumbledore retrieve from the basin in the cave?",
+            "correctAnswer": "That it is fake",
+            "wrongAnswers": [
+                "That it is a cursed item",
+                "That it belongs to Bellatrix",
+                "That it cannot be destroyed"
+            ]
+        },
+        {
+            "id": 107,
+            "question": "What is the name of the Ministry of Magic employee that Ron impersonates using Polyjuice Potion?",
+            "correctAnswer": "Reg Cattermole",
+            "wrongAnswers": [
+                "Albert Runcorn",
+                "Mundungus Fletcher",
+                "Percival Pratt"
+            ]
+        },
+        {
+            "id": 108,
+            "question": "What type of creature saves Harry from Voldemort in the Forbidden Forest?",
+            "correctAnswer": "A centaur",
+            "wrongAnswers": [
+                "A unicorn",
+                "A phoenix",
+                "A Thestral"
+            ]
+        }
     ]
 }
